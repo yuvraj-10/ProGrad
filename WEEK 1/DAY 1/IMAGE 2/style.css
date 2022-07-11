@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Rozha+One&display=swap');
+*{
+  font-family: 'Rozha One', serif;
+}
+.container{
+  display:flex;
+  flex-direction: row;
+  padding:20px;
+  align-self: center;
+  justify-content:center;
+}
+table{
+  background-color:#35313b;
+  width:30%;
+  height:590px;
+  float:left;
+  margin:2px;
+  border-radius:7px;
+  border-collapse:collapse;
+  
+}
+.head{
+  color:white;
+  font-size:40px;
+  height: 50px;
+  padding:10px;
+}
+tr{
+  border-bottom:1px solid #504a59;
+  
+}
+.tr{
+   border-bottom:0px;
+}
+.tb{
+  border-bottom:3px solid #504a59;
+}
+.h1{
+  background:#5bf0cd;
+  border-radius:5px 5px 0 0;
+  
+}
+.h2{
+  background:#354973;
+  border-radius:7px 7px 0 0;
+}
+.money{
+  font-size:50px;
+  color:white;
+ 
+}
+.month{
+  color:#474646;
+}
+.num{
+  color:white;
+}
+.row6{
+  color:white;
+  font-size:25px;
+  padding:-10px;
+}
+.dom{
+  color:#6e7c8a;
+
+}

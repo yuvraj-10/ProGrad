@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Gentium+Book+Plus&family=Urbanist:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mandali&display=swap');
+*{
+  font-family: 'Alata', sans-serif;
+}
+h1{
+  font-family: 'Alata', sans-serif;
+  font-weight: bold;
+  font-size: 85px;
+  text-align: center;
+  color: white;
+  margin-top:-5px;
+  
+}
+#bgimg{
+   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-color: rgba(50, 70, 80, 0.78);
+  background-blend-mode:multiply;
+ 
+}
+table{
+  text-align:left;
+  border: none; 
+  width: 100%;
+  
+}
+hr{
+   height:1px;
+  border-width:0;
+  color:#D3D3D3;
+  background-color:#D3D3D3;
+}
+.row{
+  width:100%;
+  color:white;
+  height:140px;
+  
+}
+.lang{
+  font-size: 70px;
+  font-weight: bold;
+}
+.col1{
+  width: 115px ;
+  padding-left:40px;
+}
+.col2{
+  width: 470px;
+ 
+}
+.col3{
+   width:470px;
+   
+}
+.html2{
+  font-size: 20px;
+  font-weight: bold;
+  margin-top:-5px;
+}
+h2{
+  font-size: 25px;
+  font-family: 'Urbanist', sans-serif;
+  margin:2px 0 10px 0;
+}
+li{
+  font-family: 'Mandali', sans-serif;
+  font-size:17px;
+  padding: 0px;
+  word-spacing:-3px;
+  margin-top:-15px;
+}
+ul{
+  padding-left:23px;
+  margin:0;
+}
