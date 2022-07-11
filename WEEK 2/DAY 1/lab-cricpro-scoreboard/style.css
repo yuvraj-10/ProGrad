@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300&family=Nunito+Sans&family=Open+Sans&display=swap');
+
+body
+{
+	background-image: url(./assets/background-image1.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: right bottom;
+	background-size: 70%;
+	font-family: 'Nunito Sans', sans-serif;
+}
+
+#head-table
+{
+	background: red;
+	color: white;
+}
+
+.footer{
+    display:flex;
+    flex-direction: row;
+    align-content: flex-end;
+	position: relative;
+	top: 50px;
+	margin-left: 50px;
+	font-size: 18px;
+	font-family: Nunito Sans;
+    font-style: normal; 
+	font-weight: 600;   
+}
+
+.bats
+{
+	font-weight: bolder;
+}
+
+#head-table
+{
+	font-weight: bolder;
+}
+
+.one a 
+{
+	color: rgb(83, 83, 255);
+	text-decoration: none;
+}
+
+.one a:visited 
+{
+	color: rgb(83, 83, 255);
+	text-decoration: none;
+}
+
+.two
+{
+	color: rgb(170, 165, 165);
+}
+
+td 
+{
+	border-bottom: 1px solid #ddd;
+    padding-top: 10px;
+    padding-bottom: 10px;
+	padding-left: 15px;
+}
+
+table {
+	background: white;
+	box-shadow: 5px 5px 12px #888888;
+	margin-left: 50px;
+    margin-top: 25px;
+    border-collapse: collapse;
+    width: 900px;
+	font-size: 20px;
+}
+
+#last td
+{
+	border-bottom: none;
+}
+
+.score
+{
+	text-align: end;
+}
+
+.ender
+{
+	text-align: right;
+	padding-right: 20px;
+}
+
+.header
+{
+	margin-left: 50px;
+    margin-top: 25px;
+	line-height: 0.2;
+}
+
+.header h2
+{
+	color: rgb(94, 93, 93);
+}
+
+.header h1
+{
+	font-size: 50px;
+	text-shadow: 2px 4px 2px #aaa5a5;
+	font-weight: 600;
+}
+
+.loggo
+{
+	display: flex;
+    justify-content: flex-end;
+}
